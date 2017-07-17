@@ -1,0 +1,22 @@
+{
+  "name": "instantcena-alexaskill",
+  "version": "1.0.0",
+  "description": "A former decorated United States Marine Corps veteran needs your help",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbachmeier/instantcena-alexaskill.git"
+  },
+  "author": "Charles Bachmeier",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cbachmeier/instantcena-alexaskill/issues"
+  },
+  "homepage": "https://github.com/cbachmeier/instantcena-alexaskill#readme",
+  "dependencies": {
+    "alexa-sdk": "^1.0.11"
+  }
+}
